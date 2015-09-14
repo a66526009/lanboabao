@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  AVPlayer
+//
+//  Created by lanou3g on 15/9/14.
+//  Copyright (c) 2015年 ZT. All rights reserved.
+//
+
+#ifndef AVPlayer_PrefixHeader_pch
+#define AVPlayer_PrefixHeader_pch
+
+
+#import "HeaderUrl.h"
+
+
+#endif
